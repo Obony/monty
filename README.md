@@ -199,7 +199,7 @@ $ cd Betty; ./install.sh
 
 * **Faith Nyaberi** - [@Obony](https://github.com/Obony)
 
-* **Peter Ochieng** - [@](https://github.com/)
+* **Peter Ochieng** - [@virtuoso254](https://github.com/virtuoso254)
 
 
 ## :mag: License
