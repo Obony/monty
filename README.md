@@ -197,9 +197,9 @@ $ cd Betty; ./install.sh
 
 ## :blue_book: Authors
 
-* **Brennan D Baraban** - [@bdbaraban](https://github.com/bdbaraban)
+* **Faith Nyaberi** - [@Obony](https://github.com/Obony)
 
-* **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
+* **Peter Ochieng** - [@](https://github.com/)
 
 
 ## :mag: License
