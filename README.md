@@ -211,6 +211,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Holberton School (providing guidance)
 * Stack Overflow (help on various memory errors (not leaks))
+* ALX Africa (for the Software Engineering learning opportunity)
 
 <p align="center">
   <img src="http://www.holbertonschool.com/holberton-logo.png">
