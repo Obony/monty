@@ -1,6 +1,6 @@
 /*
- * File: errors_2.c
- * Auth: Faith Nyaberi
+ * File: errors_2.c is the file name
+ * Authors: Faith Nyaberi
  *       Peter Ochieng
  */
 
@@ -13,7 +13,7 @@ int div_error(unsigned int line_number);
 int pchar_error(unsigned int line_number, char *message);
 
 /**
- * pop_error - Prints pop error messages for empty stacks.
+ * pop_error - Prints the  pop error messages for empty stacks.
  * @line_number: Line number in script where error occured.
  *
  * Return: (EXIT_FAILURE) always.

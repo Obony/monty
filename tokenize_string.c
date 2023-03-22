@@ -1,6 +1,6 @@
 /*
  * File: tokenize_string.c
- * Auth: Faith Nyaberi
+ * Authors: Faith Nyaberi
  *       Peter Ochieng
  */
 

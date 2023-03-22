@@ -13,7 +13,7 @@ int unknown_op_error(char *opcode, unsigned int line_number);
 int no_int_error(unsigned int line_number);
 
 /**
- * usage_error - Prints usage error messages.
+ * usage_error - outputs usage error messages.
  *
  * Return: (EXIT_FAILURE) always.
  */
@@ -24,7 +24,7 @@ int usage_error(void)
 }
 
 /**
- * malloc_error - Prints malloc error messages.
+ * malloc_error - outputs malloc error messages.
  *
  * Return: (EXIT_FAILURE) always.
  */
@@ -35,7 +35,7 @@ int malloc_error(void)
 }
 
 /**
- * f_open_error - Prints file opening error messages w/ file name.
+ * f_open_error - outputs file opening error messages w/ file name.
  * @filename: Name of file failed to open
  *
  * Return: (EXIT_FAILURE) always.

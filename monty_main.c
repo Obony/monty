@@ -11,9 +11,9 @@
 char **op_toks = NULL;
 
 /**
- * main - the entry point for Monty Interp
+ * main - function entry point
  *
- * @argc: the count of arguments passed to the program
+ * @argc: the count of arguments on the commandline
  * @argv: pointer to an array of char pointers to arguments
  *
  * Return: (EXIT_SUCCESS) on success (EXIT_FAILURE) on error

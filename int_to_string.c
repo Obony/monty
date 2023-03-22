@@ -13,8 +13,8 @@ void fill_numbase_buff(unsigned int num, unsigned int base,
 		       char *buff, int buff_size);
 
 /**
- * get_int - gets a character pointer to new string containing int
- * @num: number to convert to string
+ * get_int - gets character pointer to new string containing integer
+ * @num: target to be converted
  *
  * Return: character pointer to newly created string. NULL if malloc fails.
  */

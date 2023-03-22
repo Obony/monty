@@ -1,6 +1,6 @@
 /*
  * File: set_op_tok_error.c
- * Auth: Faith Nyaberi
+ * Authors: Faith Nyaberi
  *       Peter Ochieng
  */
 
