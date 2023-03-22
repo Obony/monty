@@ -21,6 +21,7 @@ void monty_push(stack_t **stack, unsigned int line_number)
 {
 	stack_t *tmp, *new;
 	int i;
+	char **op_toks = NULL;
 
 	new = malloc(sizeof(stack_t));
 	if (new == NULL)
