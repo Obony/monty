@@ -19,7 +19,6 @@ int run_monty(FILE *script_fd);
 void free_tokens(void)
 {
 	size_t i = 0;
-	char **op_toks = NULL;
 
 	if (op_toks == NULL)
 		return;
