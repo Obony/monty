@@ -38,7 +38,7 @@ void free_tokens(void)
 unsigned int token_arr_len(void)
 {
 	unsigned int toks_len = 0;
-	char **op_toks = NULL;
+
 
 	while (op_toks[toks_len])
 		toks_len++;
@@ -122,7 +122,7 @@ int run_monty(FILE *script_fd)
 	char *line = NULL;
 	size_t len = 0, exit_status = EXIT_SUCCESS;
 	unsigned int line_number = 0, prev_tok_len = 0;
-	char **op_toks = NULL;
+
 
 	ssize_t getline(char **line, size_t *n, FILE *stream);
 	void (*op_func)(stack_t**, unsigned int);

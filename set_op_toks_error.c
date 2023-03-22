@@ -15,7 +15,6 @@ void set_op_tok_error(int error_code)
 	int toks_len = 0, i = 0;
 	char *exit_str = NULL;
 	char **new_toks = NULL;
-	char **op_toks = NULL;
 
 	toks_len = token_arr_len();
 	new_toks = malloc(sizeof(char *) * (toks_len + 2));
