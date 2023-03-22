@@ -120,6 +120,7 @@ int run_monty(FILE *script_fd)
 	char *line = NULL;
 	size_t len = 0, exit_status = EXIT_SUCCESS;
 	unsigned int line_number = 0, prev_tok_len = 0;
+	ssize_t getline(char **line, size_t *n, FILE *stream);
 	void (*op_func)(stack_t**, unsigned int);
 
 	if (init_stack(&stack) == EXIT_FAILURE)
